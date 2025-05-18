@@ -11,10 +11,6 @@ A stylish and interactive web app built with **Streamlit** to fetch and display 
 - 🎨 Beautiful, responsive UI styled using custom HTML and CSS
 - ⚙️ Error-handling for invalid country names
 
-## 🖥️ Preview
-
-![Screenshot](screenshot.png) <!-- Replace with actual screenshot filename -->
-
 ## 🛠️ Technologies Used
 
 - Python
@@ -60,7 +56,7 @@ Try searching for:
 
 ## 📃 License
 
-MIT License. Feel free to fork and customize!
+MIT License.
 
 ---
 
